@@ -1,9 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\carre\\Desktop\\Codewars_solutions\\",
+  "WorkspaceRootPath": "C:\\Users\\carre\\OneDrive\\Escritorio\\GitHub DAM\\PROGRAMACION\\ryujinx\\codewars-demo\\Codewars_solutions\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3DF7457B-A251-4E4B-8258-08BE3034F5AC}|Codewars_solutions\\Codewars_solutions.csproj|c:\\users\\carre\\desktop\\codewars_solutions\\codewars_solutions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3DF7457B-A251-4E4B-8258-08BE3034F5AC}|Codewars_solutions\\Codewars_solutions.csproj|c:\\users\\carre\\onedrive\\escritorio\\github dam\\programacion\\ryujinx\\codewars-demo\\codewars_solutions\\codewars_solutions\\kata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DF7457B-A251-4E4B-8258-08BE3034F5AC}|Codewars_solutions\\Codewars_solutions.csproj|solutionrelative:codewars_solutions\\kata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DF7457B-A251-4E4B-8258-08BE3034F5AC}|Codewars_solutions\\Codewars_solutions.csproj|c:\\users\\carre\\onedrive\\escritorio\\github dam\\programacion\\ryujinx\\codewars-demo\\codewars_solutions\\codewars_solutions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3DF7457B-A251-4E4B-8258-08BE3034F5AC}|Codewars_solutions\\Codewars_solutions.csproj|solutionrelative:codewars_solutions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -19,12 +23,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Kata.cs",
+              "DocumentMoniker": "C:\\Users\\carre\\OneDrive\\Escritorio\\GitHub DAM\\PROGRAMACION\\ryujinx\\codewars-demo\\Codewars_solutions\\Codewars_solutions\\Kata.cs",
+              "RelativeDocumentMoniker": "Codewars_solutions\\Kata.cs",
+              "ToolTip": "C:\\Users\\carre\\OneDrive\\Escritorio\\GitHub DAM\\PROGRAMACION\\ryujinx\\codewars-demo\\Codewars_solutions\\Codewars_solutions\\Kata.cs",
+              "RelativeToolTip": "Codewars_solutions\\Kata.cs",
+              "ViewState": "AgIAAL8AAAAAAAAAAAAQwM8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T13:08:34.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\carre\\Desktop\\Codewars_solutions\\Codewars_solutions\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\carre\\OneDrive\\Escritorio\\GitHub DAM\\PROGRAMACION\\ryujinx\\codewars-demo\\Codewars_solutions\\Codewars_solutions\\Program.cs",
               "RelativeDocumentMoniker": "Codewars_solutions\\Program.cs",
-              "ToolTip": "C:\\Users\\carre\\Desktop\\Codewars_solutions\\Codewars_solutions\\Program.cs",
+              "ToolTip": "C:\\Users\\carre\\OneDrive\\Escritorio\\GitHub DAM\\PROGRAMACION\\ryujinx\\codewars-demo\\Codewars_solutions\\Codewars_solutions\\Program.cs",
               "RelativeToolTip": "Codewars_solutions\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-17T13:03:14.978Z",
               "EditorCaption": ""

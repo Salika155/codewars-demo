@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\carre\\Desktop\\Codewars_solutions\\Codewars_solutions\\Codewars_solutions.csproj",
+      "projectUniqueName": "C:\\Users\\carre\\OneDrive\\Escritorio\\GitHub DAM\\PROGRAMACION\\ryujinx\\codewars-demo\\Codewars_solutions\\Codewars_solutions\\Codewars_solutions.csproj",
       "projectName": "Codewars_solutions",
-      "projectPath": "C:\\Users\\carre\\Desktop\\Codewars_solutions\\Codewars_solutions\\Codewars_solutions.csproj",
+      "projectPath": "C:\\Users\\carre\\OneDrive\\Escritorio\\GitHub DAM\\PROGRAMACION\\ryujinx\\codewars-demo\\Codewars_solutions\\Codewars_solutions\\Codewars_solutions.csproj",
       "packagesPath": "C:\\Users\\carre\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\carre\\Desktop\\Codewars_solutions\\Codewars_solutions\\obj\\",
+      "outputPath": "C:\\Users\\carre\\OneDrive\\Escritorio\\GitHub DAM\\PROGRAMACION\\ryujinx\\codewars-demo\\Codewars_solutions\\Codewars_solutions\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
